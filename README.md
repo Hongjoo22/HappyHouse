@@ -34,5 +34,4 @@
 ![pic12](https://user-images.githubusercontent.com/65024497/173623188-fd6da6fa-dedc-40d0-971b-bff50e10c38b.jpg)
 ![pic13](https://user-images.githubusercontent.com/65024497/173623196-edb467d7-e2f9-4fec-946e-f38326eb1aba.jpg)
 
-### 🏆️수상
-반 최우수상
+# 🏆️ 반 최우수상
