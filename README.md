@@ -1,8 +1,13 @@
 # HappyHouse
 ### 프로젝트 개요
-SSAFY 1학기 Final Project 
-&lt;Vue.js와 SpringBoot를 이용한 아파트 실거래가 검색 프로젝트>
+* 삼성 청년 소프트웨어 아카데미(SSAFY) 1학기 Final Project 
+* Vue.js와 SpringBoot를 이용한 아파트 실거래가 제공 서비스
 
+### 프로젝트 기간 및 인원
+* 2022.05.19 ~ 2022.05.26 (1주일)
+* 이홍주(풀스택), 윤지환(풀스택)
+
+### 프로젝트 요약
 ![pic1](https://user-images.githubusercontent.com/65024497/173623107-91680bbd-3162-4ef3-aa21-f0f35d93bda5.jpg)
 ![pic2](https://user-images.githubusercontent.com/65024497/173623115-ae23abe8-ece1-43a2-8a24-e626713670c1.jpg)
 ![pic3](https://user-images.githubusercontent.com/65024497/173623121-209ab7a3-8493-412c-b295-40c1ae3af60a.jpg)
@@ -16,3 +21,6 @@ SSAFY 1학기 Final Project
 ![pic11](https://user-images.githubusercontent.com/65024497/173623180-6a1bffd9-8308-44fc-b8fc-f7328561f03e.jpg)
 ![pic12](https://user-images.githubusercontent.com/65024497/173623188-fd6da6fa-dedc-40d0-971b-bff50e10c38b.jpg)
 ![pic13](https://user-images.githubusercontent.com/65024497/173623196-edb467d7-e2f9-4fec-946e-f38326eb1aba.jpg)
+
+### 수상
+반 최우수상
