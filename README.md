@@ -1,0 +1,43 @@
+# HappyHouse
+### 프로젝트 개요
+* 삼성 청년 소프트웨어 아카데미(SSAFY) 1학기 Final Project 
+* Vue.js와 SpringBoot를 이용한 아파트 실거래가 제공 서비스
+
+### 프로젝트 기간 및 인원
+* 2022.05.19 ~ 2022.05.26 (1주일)
+* 이홍주(풀스택), 윤지환(풀스택)
+
+### 주요 기능
+* 회원관리(회원 가입, 회원정보 수정)
+* 로그인, 로그아웃
+* 공지사항(admin만 등록, 수정, 삭제 가능)
+* 주택 관련 법정동별 차트 모아보기(실거래가, 면적, 건축년도, 현재 위치와의 거리순)
+* 주택 관련 법정동별, 검색별 리스트 및 상세보기, 지도 보기
+  (지도-kakao API 사용)
+ * 아파트 및 주변상권 관련 리뷰 시스템
+ * 주변 상권 법정동별, 검색별 리스트 및 상세보기, 지도 보기 + 상권 유형별 마커 찍기
+ * Q&A 기능
+ * 뉴스 크롤링
+
+### 프로젝트 요약
+![pic1](https://user-images.githubusercontent.com/65024497/173623107-91680bbd-3162-4ef3-aa21-f0f35d93bda5.jpg)
+![pic2](https://user-images.githubusercontent.com/65024497/173623115-ae23abe8-ece1-43a2-8a24-e626713670c1.jpg)
+![pic3](https://user-images.githubusercontent.com/65024497/173623121-209ab7a3-8493-412c-b295-40c1ae3af60a.jpg)
+![pic14](https://user-images.githubusercontent.com/65024497/173627308-7ddf4064-8097-4a07-80e1-2f1df5e046f5.jpg)
+![pic15](https://user-images.githubusercontent.com/65024497/173627314-9ee5eefc-5275-4042-bd13-c21cce471fa7.jpg)
+![pic16](https://user-images.githubusercontent.com/65024497/173627319-414caedc-1330-4b01-a21e-fca2aaa2d294.jpg)
+![pic4](https://user-images.githubusercontent.com/65024497/173623123-e47bf0f1-575b-48d5-9a2d-e5d2fbc2eacc.jpg)
+![pic5](https://user-images.githubusercontent.com/65024497/173623130-29b93d03-c3eb-4726-8521-bdfec0071b15.jpg)
+![pic6](https://user-images.githubusercontent.com/65024497/173623133-e405425a-e389-4149-a2ab-c8452a94aac4.jpg)
+![pic7](https://user-images.githubusercontent.com/65024497/173623140-8312ac1c-0fb6-4a43-ac6e-9585781d2a91.jpg)
+![pic8](https://user-images.githubusercontent.com/65024497/173623143-63dfca48-0fd7-4c78-be63-bfcf27a60ba3.jpg)
+![pic9](https://user-images.githubusercontent.com/65024497/173623148-3bba1389-4718-4dab-8c5a-4be74322ee7b.jpg)
+![pic10](https://user-images.githubusercontent.com/65024497/173623166-a86617dc-14bc-40f8-8fa2-0c2aec866549.jpg)
+![pic11](https://user-images.githubusercontent.com/65024497/173623180-6a1bffd9-8308-44fc-b8fc-f7328561f03e.jpg)
+![pic12](https://user-images.githubusercontent.com/65024497/173623188-fd6da6fa-dedc-40d0-971b-bff50e10c38b.jpg)
+![pic13](https://user-images.githubusercontent.com/65024497/173623196-edb467d7-e2f9-4fec-946e-f38326eb1aba.jpg)
+
+# UCC 클릭
+[<img src="https://user-images.githubusercontent.com/65024497/173623123-e47bf0f1-575b-48d5-9a2d-e5d2fbc2eacc.jpg" width="50%">](https://youtu.be/I4tGu7Ev9pg "Now in Android: 55")
+
+# 🏆️ 반 최우수상
